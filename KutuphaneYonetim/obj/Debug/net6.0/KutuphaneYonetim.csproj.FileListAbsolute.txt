@@ -1,0 +1,14 @@
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\bin\Debug\net6.0\KutuphaneYonetim.exe
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\bin\Debug\net6.0\KutuphaneYonetim.deps.json
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\bin\Debug\net6.0\KutuphaneYonetim.runtimeconfig.json
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\bin\Debug\net6.0\KutuphaneYonetim.dll
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\bin\Debug\net6.0\KutuphaneYonetim.pdb
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\net6.0\KutuphaneYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\net6.0\KutuphaneYonetim.AssemblyInfoInputs.cache
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\net6.0\KutuphaneYonetim.AssemblyInfo.cs
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\net6.0\KutuphaneYonetim.csproj.CoreCompileInputs.cache
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\net6.0\KutuphaneYonetim.dll
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\net6.0\refint\KutuphaneYonetim.dll
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\net6.0\KutuphaneYonetim.pdb
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\net6.0\KutuphaneYonetim.genruntimeconfig.cache
+C:\Users\ayber\source\repos\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\net6.0\ref\KutuphaneYonetim.dll
